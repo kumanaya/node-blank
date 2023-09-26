@@ -1,3 +1,6 @@
+
+![Cover](https://github.com/kumanaya/node-blank/blob/main/assets/cover.png)
+
 # Node Blank
 
 This is a basic Node project that serves as a starting point for the development of other applications.
