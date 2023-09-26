@@ -1,5 +1,5 @@
 
-![Cover](https://github.com/kumanaya/node-blank/blob/main/assets/cover.png)
+![Cover](https://github.com/kumanaya/node-blank/blob/master/assets/cover.png)
 
 # Node Blank
 
